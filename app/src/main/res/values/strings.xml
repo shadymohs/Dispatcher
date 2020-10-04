@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ترحيل الركاب</string>
+    <string name="lang">عربي</string>
+    <string name="userName">User name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="invalidLogin">Sorry invalid login</string>
+    <string name="loginFailed">Login is failed</string>
+    <string name="sdp">SDP</string>
+    <string name="welcomeUser">Welcome user</string>
+    <string name="invalidTrip">Sorry invalid trip</string>
+    <string name="invalidData">Sorry wrong data</string>
+    <string name="tripCode">Trip code</string>
+    <string name="tripDate">Trip date</string>
+    <string name="ticketNum">Ticket number</string>
+    <string name="dispatchProcess">Process type</string>
+    <string name="dispatch">Dispatch</string>
+    <string name="unDispatch">Un dispatch</string>
+    <string name="openCam">Open camera</string>
+    <string name="search">Search</string>
+    <string name="confirm">Confirm</string>
+    <string name="select">Select</string>
+    <string name="deviceType">Device type</string>
+    <string name="pdaDevice">PDA device</string>
+    <string name="camDevice">Camera device</string>
+    <string name="invalidDevice">Sorry device type is required</string>
+    <string name="validDispatch">Ticket is dispatched successfully</string>
+    <string name="validUnDispatch">Ticket is un dispatched successfully</string>
+    <string name="wsNS">http://www.saptco.com.sa/Dispatch/</string>
+    <!--<string name="wsURL">http://integtest.saptco.sa/PDA.Services.WebWare/PDAService.asmx</string>-->
+    <string name="wsURL">http://services.saptco.sa/PDAService/PDAService.asmx</string>
+</resources>
